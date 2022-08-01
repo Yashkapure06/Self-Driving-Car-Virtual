@@ -2,7 +2,7 @@
 An Virtual Self Driving Car with the help of Python
 
 ``` 
-pip install pygames
+pip install pygame
 ```
 
 ![image](https://user-images.githubusercontent.com/61585443/182076051-4cc5a446-006a-469d-ba5f-5508afb1a0e7.png)
