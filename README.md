@@ -1,7 +1,9 @@
 # Self-Driving-Car-Virtual
 An Virtual Self Driving Car with the help of Python
 
+
 ``` 
+# Just run the following command in your terminal
 pip install pygame
 ```
 
