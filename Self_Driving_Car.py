@@ -3,11 +3,19 @@
 #no3 it can trun on its own i.e takes left and right move forward  or backward, etc...
 #no4  it can reach the destination by it's own
 import pygame
+
 pygame.init()#initialize pygame
+
 window = pygame.display.set_mode((1200,400))
+
 track =  pygame.image.load('Projects\\Self Driving Car\\images\\track6.png')
+
 car = pygame.image.load('Projects\\Self Driving Car\\images\\tesla.png')
-car = pygame.transform.scale(car, (30, 60))#this is to decrease the size of the car image to fit on the road
+
+car = pygame.transform.scale(car, (30, 60))
+#this is to decrease the size of the car image to fit on the road
+
+
 car_x = 150
 car_y = 300
 focal_distance = 25
